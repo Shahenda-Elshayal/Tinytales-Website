@@ -1,43 +1,14 @@
 # TINYTALES-WEBSITE
 
-*Transforming Stories into Seamless Digital Experiences*
-
-![GitHub last commit](https://img.shields.io/github/last-commit/Shahenda-Elshayal/Tinytales-Website?style=flat-square)
-![JavaScript](https://img.shields.io/badge/javascript-98.3%25-yellow?style=flat-square)
-![Languages](https://img.shields.io/badge/languages-2-blue?style=flat-square)
-
 *Built with the tools and technologies:*
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Formik](https://img.shields.io/badge/Formik-43E97B?style=flat-square&logo=formik&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-
----
-
-## Overview
-
-**TinyTales-Website** is a modern, Next.js-based web platform crafted for dynamic storytelling and user engagement. The project emphasizes maintainability, performance, and developer productivity through a modular architecture and integrated best practices.
-
----
-
-## Why TinyTales-Website?
-
-This project provides a comprehensive foundation for building scalable, feature-rich web applications. Here are the core features:
-
-- **🎨🧩 Customizable Styling:** Seamless Tailwind CSS integration via PostCSS for utility-first, maintainable design.
-
-- **🔒🔑 Secure Authentication:** Robust user login, registration, and verification workflows managed through context and API integrations.
-
-- **🚀⚡ Optimized Performance:** Next.js configuration and code organization ensure fast load times and smooth user experiences.
-
-- **🛠️🧱 Reusable Components:** Modular UI elements like product reviews, image galleries, and navigation enhance development efficiency.
-
-- **📦📝 Developer-Friendly Setup:** Clear configurations with jsconfig, ESLint, and deployment support.
 
 ---
 
@@ -144,7 +115,6 @@ tinytales/
 - Breadcrumb navigation
 
 ### Developer Experience
-- TypeScript-ready configuration
 - ESLint for code quality
 - Tailwind CSS for styling
 - Form validation with Formik and Yup
@@ -167,28 +137,6 @@ tinytales/
 ## API Configuration
 
 The project uses a centralized API configuration located in `lib/api.js`. All API requests automatically include authentication tokens and handle error responses.
-
-**Base URL:** `https://tinytales.trendline.marketing/api`
-
----
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-## License
-
-This project is private and proprietary.
-
----
-
-## Author
-
-**Shahenda Elshayal**
-
-- GitHub: [@Shahenda-Elshayal](https://github.com/Shahenda-Elshayal)
 
 ---
 
